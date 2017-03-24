@@ -5,5 +5,9 @@
 
 void F1(void)
 {
+	char toto;
+
+	toto ++
+	toto = 0;
 }
 
